@@ -8,4 +8,8 @@
   <url><loc>https://bigwalkgames.com/ps5.html</loc></url>
   <url><loc>https://bigwalkgames.com/xbox.html</loc></url>
   <url><loc>https://bigwalkgames.com/steam.html</loc></url>
+  <url>
+    <loc>https://bigwalkgames.com/guides/big-walk-beginner-guide.html</loc>
+    <priority>0.8</priority>
+</url>
 </urlset>
