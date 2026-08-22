@@ -12,3 +12,32 @@
 @media(max-width:620px){.footer-row{grid-template-columns:1fr}.footer-links{display:grid;grid-template-columns:1fr 1fr}.footer-links p{grid-column:1/-1}.footer-brand{width:min(230px,100%)}table{display:block;overflow-x:auto}}
 @media(max-width:520px){.wrap{width:min(100% - 28px,1160px)}h1{font-size:clamp(2.65rem,14vw,3.45rem);overflow-wrap:anywhere}.hero{min-height:620px;background-position:62% center}.hero-copy{padding:96px 0 74px}.section-head{display:block}.grid{grid-template-columns:1fr}.cta{padding:30px 22px}.nav{min-height:122px;gap:8px;flex-wrap:wrap;padding:8px 0}.brand{flex:1 1 calc(100% - 104px);max-width:176px}.brand img{max-height:54px}.theme{margin-left:auto}.language{order:5;width:100%;min-height:44px}.links{top:122px}.actions{display:grid}.actions .button,.cta .button{width:100%;min-height:48px;text-align:center}.card-body,.step,.mini{padding:21px}.feature{padding:28px;min-height:330px}.inner-hero{padding:88px 0 56px}.quick{padding:21px}.footer-links{grid-template-columns:1fr 1fr}}
 @media(max-width:360px){.wrap{width:min(100% - 22px,1160px)}.brand{max-width:156px}.footer-links{grid-template-columns:1fr}.footer-links p{grid-column:auto}.cta{padding:26px 18px}}
+.hero-buttons {
+    display: flex;
+    gap: 16px;
+    margin-top: 32px;
+}
+
+
+.cta-button {
+    display: inline-block;
+    padding: 14px 28px;
+    background: #ffb347;
+    color: #111;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: 700;
+    transition: 0.3s;
+}
+
+
+.cta-button:hover {
+    transform: translateY(-3px);
+}
+
+
+.cta-button.secondary {
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+}
