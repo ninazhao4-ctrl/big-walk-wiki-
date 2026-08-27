@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>https://bigwalkgames.com/</loc>
-<priority>1.0</priority>
-</url>
-
-<url>
-<loc>https://bigwalkgames.com/puzzles.html</loc>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://bigwalkgames.com/map.html</loc>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://bigwalkgames.com/crossplay.html</loc>
-<priority>0.7</priority>
-</url>
-
-<url>
-<loc>https://bigwalkgames.com/how-many-players.html</loc>
-<priority>0.7</priority>
-</url>
-
-<url>
-<loc>https://bigwalkgames.com/ps5.html</loc>
-<priority>0.7</priority>
-</url>
-
-<url>
-<loc>https://bigwalkgames.com/xbox.html</loc>
-<priority>0.7</priority>
-</url>
-
-<url>
-<loc>https://bigwalkgames.com/steam.html</loc>
-<priority>0.7</priority>
-</url>
-
+  <url><loc>https://bigwalkgames.com/</loc><lastmod>2026-08-27</lastmod><priority>1.0</priority></url>
+  <url><loc>https://bigwalkgames.com/puzzles.html</loc><lastmod>2026-08-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bigwalkgames.com/map.html</loc><lastmod>2026-08-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bigwalkgames.com/walkthrough.html</loc><lastmod>2026-08-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bigwalkgames.com/crossplay.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/how-many-players.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/ps5.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/xbox.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/steam.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/release-date-price.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/co-op-multiplayer.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/local-co-op.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/how-long.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/train-puzzle.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/trophies-achievements.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/beginner-faq.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/ending.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://bigwalkgames.com/system-requirements.html</loc><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
 </urlset>
